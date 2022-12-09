@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **routeMaster**
 
-- 🌱 I’m currently learning **MERN**
-
 - 👨‍💻 All of my projects are available at [www.github.com/no-logik](www.github.com/no-logik)
 
 - 📫 How to reach me **iamabhaysinghchauhan@gmail.com**
