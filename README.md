@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhay Singh Chauhan</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
-- 🔭 I’m currently working on **routeMaster**
+- 🔭 I’m currently working on an **interview portal**
 
 - 👨‍💻 All of my projects are available at [www.github.com/no-logik](www.github.com/no-logik)
 
