@@ -1,18 +1,18 @@
 permissions:
-  content: write
+  contents: write
 
 on:
   workflow_dispatch:
   push:
     branches:
       - main
-    schedule:
-      - cron: "0 0 * * *"
+  schedule:
+    - cron: "0 0 * * *"
 
 jobs:
   devacrd:
     runs-on: ubuntu-latest
-    setps:
+    steps:
       - name: devcard
         uses: dailydotdev/action-devcard@2.0.2
         with:
