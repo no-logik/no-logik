@@ -9,6 +9,7 @@
 
 - ⚡ Fun fact **I hate bricks**
 
+<img align="right" src="https://raw.githubusercontent.com/no-logik/no-logik/7b5b799e513fa6e02100d2c5c5c45509b4c82414/devcard.svg" alt="devcard" height="300" width=auto />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/no-logik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="no-logik" height="30" width="40" /></a>
