@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack web developer from India</h3>
 <img align="right" src="https://github.com/no-logik/no-logik/blob/main/devcard.svg" alt="devcard" height="300" width=auto />
 
-- 🔭 I’m currently working at Clouddefense.ai
+- 🔭 I’m currently working at Medibuddy
 
 - 👨‍💻 All of my projects are available at [www.github.com/no-logik](www.github.com/no-logik)
 
